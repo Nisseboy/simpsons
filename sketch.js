@@ -20,10 +20,10 @@ function setup() {
   seas = seas.seasons;
   
   season = createSlider(1, seas.length, 20);
-  season.position(0, height - 40);
+  season.position(0, height - 100);
   season.size(width, 20);
   episode = createSlider(1, 25, 1);
-  episode.position(0, height - 20);
+  episode.position(0, height - 60);
   episode.size(width, 20);
   
   
