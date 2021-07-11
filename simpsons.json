@@ -1,3658 +1,772 @@
 {
-  "seasons": [
-
-    {
-      "episodes": [
-        {
-          "title": "Simpsons Roasting on an Open Fire"
-        },
-
-
-        {
-          "title": "Bart the Genius"
-        },
-
-
-        {
-          "title": "Homer's Odyssey"
-        },
-
-
-        {
-          "title": "There's No Disgrace Like Home"
-        },
-
-
-        {
-          "title": "Bart the General"
-        },
-
-
-        {
-          "title": "Moaning Lisa"
-        },
-
-
-        {
-          "title": "The Call of the Simpsons"
-        },
-
-
-        {
-          "title": "The Telltale Head"
-        },
-
-
-        {
-          "title": "Life on the Fast Lane"
-        },
-
-
-        {
-          "title": "Homer's Night Out"
-        },
-
-
-        {
-          "title": "The Crepes of Wrath"
-        },
-
-
-        {
-          "title": "Krusty Gets Busted"
-        },
-
-
-        {
-          "title": "Some Enchanted Evening"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Bart Gets an F"
-        },
-
-
-        {
-          "title": "Simpson and Delilah"
-        },
-
-
-        {
-          "title": "Treehouse of Horror"
-        },
-
-
-        {
-          "title": "Two Cars in Every Garage and Three Eyes on Every Fish"
-        },
-
-
-        {
-          "title": "Dancin' Homer"
-        },
-
-
-        {
-          "title": "Dead Putting Society"
-        },
-
-
-        {
-          "title": "Bart vs. Thanksgiving"
-        },
-
-
-        {
-          "title": "Bart the Daredevil"
-        },
-
-
-        {
-          "title": "Itchy &amp; Scratchy &amp; Marge"
-        },
-
-
-        {
-          "title": "Bart Gets Hit by a Car"
-        },
-
-
-        {
-          "title": "One Fish, Two Fish, Blowfish, Blue Fish"
-        },
-
-
-        {
-          "title": "The Way We Was"
-        },
-
-
-        {
-          "title": "Homer vs. Lisa and the 8th Commandment"
-        },
-
-
-        {
-          "title": "Principal Charming"
-        },
-
-
-        {
-          "title": "Oh Brother, Where Art Thou?"
-        },
-
-
-        {
-          "title": "Bart's Dog Gets an F"
-        },
-
-
-        {
-          "title": "Old Money"
-        },
-
-
-        {
-          "title": "Brush with Greatness"
-        },
-
-
-        {
-          "title": "Lisa's Substitute"
-        },
-
-
-        {
-          "title": "The War of the Simpsons"
-        },
-
-
-        {
-          "title": "Three Men and a Comic Book"
-        },
-
-
-        {
-          "title": "Blood Feud"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Stark Raving Dad"
-        },
-
-
-        {
-          "title": "Mr. Lisa Goes to Washington"
-        },
-
-
-        {
-          "title": "When Flanders Failed"
-        },
-
-
-        {
-          "title": "Bart the Murderer"
-        },
-
-
-        {
-          "title": "Homer Defined"
-        },
-
-
-        {
-          "title": "Like Father, Like Clown"
-        },
-
-
-        {
-          "title": "Treehouse of Horror II"
-        },
-
-
-        {
-          "title": "Lisa's Pony"
-        },
-
-
-        {
-          "title": "Saturdays of Thunder"
-        },
-
-
-        {
-          "title": "Flaming Moe's"
-        },
-
-
-        {
-          "title": "Burns Verkaufen der Kraftwerk"
-        },
-
-
-        {
-          "title": "I Married Marge"
-        },
-
-
-        {
-          "title": "Radio Bart"
-        },
-
-
-        {
-          "title": "Lisa the Greek"
-        },
-
-
-        {
-          "title": "Homer Alone"
-        },
-
-
-        {
-          "title": "Bart the Lover"
-        },
-
-
-        {
-          "title": "Homer at the Bat"
-        },
-
-
-        {
-          "title": "Separate Vocations"
-        },
-
-
-        {
-          "title": "Dog of Death"
-        },
-
-
-        {
-          "title": "Colonel Homer"
-        },
-
-
-        {
-          "title": "Black Widower"
-        },
-
-
-        {
-          "title": "The Otto Show"
-        },
-
-
-        {
-          "title": "Bart's Friend Falls in Love"
-        },
-
-
-        {
-          "title": "Brother, Can You Spare Two Dimes?"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Kamp Krusty"
-        },
-
-
-        {
-          "title": "A Streetcar Named Marge"
-        },
-
-
-        {
-          "title": "Homer the Heretic"
-        },
-
-
-        {
-          "title": "Lisa the Beauty Queen"
-        },
-
-
-        {
-          "title": "Treehouse of Horror III"
-        },
-
-
-        {
-          "title": "Itchy and Scratchy: The Movie"
-        },
-
-
-        {
-          "title": "Marge Gets a Job"
-        },
-
-
-        {
-          "title": "New Kid on the Block"
-        },
-
-
-        {
-          "title": "Mr. Plow"
-        },
-
-
-        {
-          "title": "Lisa's First Word"
-        },
-
-
-        {
-          "title": "Homer's Triple Bypass"
-        },
-
-
-        {
-          "title": "Marge vs. the Monorail"
-        },
-
-
-        {
-          "title": "Selma's Choice"
-        },
-
-
-        {
-          "title": "Brother from the Same Planet"
-        },
-
-
-        {
-          "title": "I Love Lisa"
-        },
-
-
-        {
-          "title": "Duffless"
-        },
-
-
-        {
-          "title": "Last Exit to Springfield"
-        },
-
-
-        {
-          "title": "So It's Come to This: A Simpsons Clip Show"
-        },
-
-
-        {
-          "title": "The Front"
-        },
-
-
-        {
-          "title": "Whacking Day"
-        },
-
-
-        {
-          "title": "Marge in Chains"
-        },
-
-
-        {
-          "title": "Krusty Gets Kancelled"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Homer's Barbershop Quartet"
-        },
-
-
-        {
-          "title": "Cape Feare"
-        },
-
-
-        {
-          "title": "Homer Goes to College"
-        },
-
-
-        {
-          "title": "Rosebud"
-        },
-
-
-        {
-          "title": "Treehouse of Horror IV"
-        },
-
-
-        {
-          "title": "Marge on the Lam"
-        },
-
-
-        {
-          "title": "Bart's Inner Child"
-        },
-
-
-        {
-          "title": "Boy-Scoutz 'n the Hood"
-        },
-
-
-        {
-          "title": "The Last Temptation of Homer"
-        },
-
-
-        {
-          "title": "$pringfield"
-        },
-
-
-        {
-          "title": "Homer the Vigilante"
-        },
-
-
-        {
-          "title": "Bart Gets Famous"
-        },
-
-
-        {
-          "title": "Homer and Apu"
-        },
-
-
-        {
-          "title": "Lisa vs. Malibu Stacy"
-        },
-
-
-        {
-          "title": "Deep Space Homer"
-        },
-
-
-        {
-          "title": "Homer Loves Flanders"
-        },
-
-
-        {
-          "title": "Bart Gets an Elephant"
-        },
-
-
-        {
-          "title": "Burns' Heir"
-        },
-
-
-        {
-          "title": "Sweet Seymour Skinner's Baadasssss Song"
-        },
-
-
-        {
-          "title": "The Boy Who Knew Too Much"
-        },
-
-
-        {
-          "title": "Lady Bouvier's Lover"
-        },
-
-
-        {
-          "title": "Secrets of a Successful Marriage"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Bart of Darkness"
-        },
-
-
-        {
-          "title": "Lisa's Rival"
-        },
-
-
-        {
-          "title": "Another Simpsons Clip Show"
-        },
-
-
-        {
-          "title": "Itchy &amp; Scratchy Land"
-        },
-
-
-        {
-          "title": "Sideshow Bob Roberts"
-        },
-
-
-        {
-          "title": "Treehouse of Horror V"
-        },
-
-
-        {
-          "title": "Bart's Girlfriend"
-        },
-
-
-        {
-          "title": "Lisa on Ice"
-        },
-
-
-        {
-          "title": "Homer Badman"
-        },
-
-
-        {
-          "title": "Grampa vs. Sexual Inadequacy"
-        },
-
-
-        {
-          "title": "Fear of Flying"
-        },
-
-
-        {
-          "title": "Homer the Great"
-        },
-
-
-        {
-          "title": "And Maggie Makes Three"
-        },
-
-
-        {
-          "title": "Bart's Comet"
-        },
-
-
-        {
-          "title": "Homie the Clown"
-        },
-
-
-        {
-          "title": "Bart vs. Australia"
-        },
-
-
-        {
-          "title": "Homer vs. Patty &amp; Selma"
-        },
-
-
-        {
-          "title": "A Star Is Burns"
-        },
-
-
-        {
-          "title": "Lisa's Wedding"
-        },
-
-
-        {
-          "title": "Two Dozen and One Greyhounds"
-        },
-
-
-        {
-          "title": "The PTA Disbands"
-        },
-
-
-        {
-          "title": "Round Springfield"
-        },
-
-
-        {
-          "title": "The Springfield Connection"
-        },
-
-
-        {
-          "title": "Lemon of Troy"
-        },
-
-
-        {
-          "title": "Who Shot Mr. Burns?: Part 1"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Who Shot Mr. Burns? (2)"
-        },
-
-
-        {
-          "title": "Radioactive Man"
-        },
-
-
-        {
-          "title": "Home Sweet Homediddly-Dum-Doodily"
-        },
-
-
-        {
-          "title": "Bart Sells His Soul"
-        },
-
-
-        {
-          "title": "Lisa the Vegetarian"
-        },
-
-
-        {
-          "title": "Treehouse of Horror VI"
-        },
-
-
-        {
-          "title": "King-Size Homer"
-        },
-
-
-        {
-          "title": "Mother Simpson"
-        },
-
-
-        {
-          "title": "Sideshow Bob's Last Gleaming"
-        },
-
-
-        {
-          "title": "The Simpsons 138th Episode Spectacular!"
-        },
-
-
-        {
-          "title": "Marge Be Not Proud"
-        },
-
-
-        {
-          "title": "Team Homer"
-        },
-
-
-        {
-          "title": "Two Bad Neighbors"
-        },
-
-
-        {
-          "title": "Scenes from the Class Struggle in Springfield"
-        },
-
-
-        {
-          "title": "Bart the Fink"
-        },
-
-
-        {
-          "title": "Lisa the Iconoclast"
-        },
-
-
-        {
-          "title": "Homer the Smithers"
-        },
-
-
-        {
-          "title": "The Day the Violence Died"
-        },
-
-
-        {
-          "title": "A Fish Called Selma"
-        },
-
-
-        {
-          "title": "Bart on the Road"
-        },
-
-
-        {
-          "title": "22 Short Films about Springfield"
-        },
-
-
-        {
-          "title": "Raging Abe Simpson and His Grumbling Grandson in &#34;The Curse of the Flying Hellfish&#34;"
-        },
-
-
-        {
-          "title": "Much Apu About Nothing"
-        },
-
-
-        {
-          "title": "Homerpalooza"
-        },
-
-
-        {
-          "title": "Summer of 4 Ft. 2"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror VII"
-        },
-
-
-        {
-          "title": "You Only Move Twice"
-        },
-
-
-        {
-          "title": "The Homer They Fall"
-        },
-
-
-        {
-          "title": "Burns, Baby Burns"
-        },
-
-
-        {
-          "title": "Bart After Dark"
-        },
-
-
-        {
-          "title": "A Milhouse Divided"
-        },
-
-
-        {
-          "title": "Lisa's Date with Density"
-        },
-
-
-        {
-          "title": "Hurricane Neddy"
-        },
-
-
-        {
-          "title": "The Mysterious Voyage of Our Homer"
-        },
-
-
-        {
-          "title": "The Springfield Files"
-        },
-
-
-        {
-          "title": "The Twisted World of Marge Simpson"
-        },
-
-
-        {
-          "title": "Mountain of Madness"
-        },
-
-
-        {
-          "title": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious"
-        },
-
-
-        {
-          "title": "The Itchy &amp; Scratchy &amp; Poochie Show"
-        },
-
-
-        {
-          "title": "Homer's Phobia"
-        },
-
-
-        {
-          "title": "Brother from Another Series"
-        },
-
-
-        {
-          "title": "My Sister, My Sitter"
-        },
-
-
-        {
-          "title": "Homer vs. The Eighteenth Amendment"
-        },
-
-
-        {
-          "title": "Grade School Confidential"
-        },
-
-
-        {
-          "title": "The Canine Mutiny"
-        },
-
-
-        {
-          "title": "The Old Man and the Lisa"
-        },
-
-
-        {
-          "title": "In Marge We Trust"
-        },
-
-
-        {
-          "title": "Homer's Enemy"
-        },
-
-
-        {
-          "title": "The Simpsons Spin-Off Showcase"
-        },
-
-
-        {
-          "title": "The Secret War of Lisa Simpson"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "The City of New York vs. Homer Simpson"
-        },
-
-
-        {
-          "title": "The Principal and the Pauper"
-        },
-
-
-        {
-          "title": "Lisa's Sax"
-        },
-
-
-        {
-          "title": "Treehouse of Horror VIII"
-        },
-
-
-        {
-          "title": "The Cartridge Family"
-        },
-
-
-        {
-          "title": "Bart Star"
-        },
-
-
-        {
-          "title": "The Two Mrs. Nahasapeemapetilons"
-        },
-
-
-        {
-          "title": "Lisa the Skeptic"
-        },
-
-
-        {
-          "title": "Realty Bites"
-        },
-
-
-        {
-          "title": "Miracle on Evergreen Terrace"
-        },
-
-
-        {
-          "title": "All Singing, All Dancing"
-        },
-
-
-        {
-          "title": "Bart Carny"
-        },
-
-
-        {
-          "title": "The Joy of Sect"
-        },
-
-
-        {
-          "title": "Das Bus"
-        },
-
-
-        {
-          "title": "The Last Temptation of Krust"
-        },
-
-
-        {
-          "title": "Dumbbell Indemnity"
-        },
-
-
-        {
-          "title": "Lisa the Simpson"
-        },
-
-
-        {
-          "title": "This Little Wiggy"
-        },
-
-
-        {
-          "title": "Simpson Tide"
-        },
-
-
-        {
-          "title": "The Trouble with Trillions"
-        },
-
-
-        {
-          "title": "Girly Edition"
-        },
-
-
-        {
-          "title": "Trash of the Titans"
-        },
-
-
-        {
-          "title": "King of the Hill"
-        },
-
-
-        {
-          "title": "Lost Our Lisa"
-        },
-
-
-        {
-          "title": "Natural Born Kissers"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Lard of the Dance"
-        },
-
-
-        {
-          "title": "The Wizard of Evergreen Terrace"
-        },
-
-
-        {
-          "title": "Bart the Mother"
-        },
-
-
-        {
-          "title": "Treehouse of Horror IX"
-        },
-
-
-        {
-          "title": "When You Dish upon a Star"
-        },
-
-
-        {
-          "title": "D'Oh-in' in the Wind"
-        },
-
-
-        {
-          "title": "Lisa Gets an &#34;A&#34;"
-        },
-
-
-        {
-          "title": "Homer Simpson in: &#34;Kidney Trouble&#34;"
-        },
-
-
-        {
-          "title": "Mayored to the Mob"
-        },
-
-
-        {
-          "title": "Viva Ned Flanders"
-        },
-
-
-        {
-          "title": "Wild Barts Can't Be Broken"
-        },
-
-
-        {
-          "title": "Sunday, Cruddy Sunday"
-        },
-
-
-        {
-          "title": "Homer to the Max"
-        },
-
-
-        {
-          "title": "I'm with Cupid"
-        },
-
-
-        {
-          "title": "Marge Simpson in: &#34;Screaming Yellow Honkers&#34;"
-        },
-
-
-        {
-          "title": "Make Room for Lisa"
-        },
-
-
-        {
-          "title": "Maximum Homerdrive"
-        },
-
-
-        {
-          "title": "Simpsons Bible Stories"
-        },
-
-
-        {
-          "title": "Mom and Pop Art"
-        },
-
-
-        {
-          "title": "The Old Man and the &#34;C&#34; Student"
-        },
-
-
-        {
-          "title": "Monty Can't Buy Me Love"
-        },
-
-
-        {
-          "title": "They Saved Lisa's Brain"
-        },
-
-
-        {
-          "title": "Thirty Minutes over Tokyo"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Beyond Blunderdome"
-        },
-
-
-        {
-          "title": "Brother's Little Helper"
-        },
-
-
-        {
-          "title": "Guess Who's Coming to Criticize Dinner?"
-        },
-
-
-        {
-          "title": "Treehouse of Horror X"
-        },
-
-
-        {
-          "title": "E-I-E-I-(Annoyed Grunt)"
-        },
-
-
-        {
-          "title": "Hello Gutter, Hello Fadder"
-        },
-
-
-        {
-          "title": "Eight Misbehavin'"
-        },
-
-
-        {
-          "title": "Take My Wife, Sleaze"
-        },
-
-
-        {
-          "title": "Grift of the Magi"
-        },
-
-
-        {
-          "title": "Little Big Mom"
-        },
-
-
-        {
-          "title": "Faith Off"
-        },
-
-
-        {
-          "title": "The Mansion Family"
-        },
-
-
-        {
-          "title": "Saddlesore Galactica"
-        },
-
-
-        {
-          "title": "Alone Again, Natura-Diddily"
-        },
-
-
-        {
-          "title": "Missionary: Impossible"
-        },
-
-
-        {
-          "title": "Pygmoelian"
-        },
-
-
-        {
-          "title": "Bart to the Future"
-        },
-
-
-        {
-          "title": "Days of Wine and D'oh'ses"
-        },
-
-
-        {
-          "title": "Kill the Alligator and Run"
-        },
-
-
-        {
-          "title": "Last Tap Dance in Springfield"
-        },
-
-
-        {
-          "title": "It's A Mad, Mad, Mad, Mad Marge"
-        },
-
-
-        {
-          "title": "Behind the Laughter"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror XI"
-        },
-
-
-        {
-          "title": "A Tale of Two Springfields"
-        },
-
-
-        {
-          "title": "Insane Clown Poppy"
-        },
-
-
-        {
-          "title": "Lisa the Tree Hugger"
-        },
-
-
-        {
-          "title": "Homer vs. Dignity"
-        },
-
-
-        {
-          "title": "The Computer Wore Menace Shoes"
-        },
-
-
-        {
-          "title": "The Great Money Caper"
-        },
-
-
-        {
-          "title": "Skinner's Sense of Snow"
-        },
-
-
-        {
-          "title": "HOMR"
-        },
-
-
-        {
-          "title": "Pokey Mom"
-        },
-
-
-        {
-          "title": "Worst Episode Ever"
-        },
-
-
-        {
-          "title": "Tennis the Menace"
-        },
-
-
-        {
-          "title": "Day of the Jackanapes"
-        },
-
-
-        {
-          "title": "New Kids on the Blecch"
-        },
-
-
-        {
-          "title": "Hungry, Hungry Homer"
-        },
-
-
-        {
-          "title": "Bye Bye Nerdie"
-        },
-
-
-        {
-          "title": "Simpson Safari"
-        },
-
-
-        {
-          "title": "Trilogy of Error"
-        },
-
-
-        {
-          "title": "I'm Goin' to Praise Land"
-        },
-
-
-        {
-          "title": "Children of a Lesser Clod"
-        },
-
-
-        {
-          "title": "Simpsons Tall Tales"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror XII"
-        },
-
-
-        {
-          "title": "The Parent Rap"
-        },
-
-
-        {
-          "title": "Homer the Moe"
-        },
-
-
-        {
-          "title": "A Hunka Hunka Burns in Love"
-        },
-
-
-        {
-          "title": "The Blunder Years"
-        },
-
-
-        {
-          "title": "She of Little Faith"
-        },
-
-
-        {
-          "title": "Brawl in the Family"
-        },
-
-
-        {
-          "title": "Sweets and Sour Marge"
-        },
-
-
-        {
-          "title": "Jaws Wired Shut"
-        },
-
-
-        {
-          "title": "Half-Decent Proposal"
-        },
-
-
-        {
-          "title": "The Bart Wants What It Wants"
-        },
-
-
-        {
-          "title": "The Lastest Gun in the West"
-        },
-
-
-        {
-          "title": "The Old Man and the Key"
-        },
-
-
-        {
-          "title": "Tales from the Public Domain"
-        },
-
-
-        {
-          "title": "Blame It on Lisa"
-        },
-
-
-        {
-          "title": "Weekend at Burnsie's"
-        },
-
-
-        {
-          "title": "Gump Roast"
-        },
-
-
-        {
-          "title": "I Am Furious Yellow"
-        },
-
-
-        {
-          "title": "The Sweetest Apu"
-        },
-
-
-        {
-          "title": "Little Girl in the Big Ten"
-        },
-
-
-        {
-          "title": "The Frying Game"
-        },
-
-
-        {
-          "title": "Papa's Got a Brand New Badge"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror XIII"
-        },
-
-
-        {
-          "title": "How I Spent My Strummer Vacation"
-        },
-
-
-        {
-          "title": "Bart vs. Lisa vs. the Third Grade"
-        },
-
-
-        {
-          "title": "Large Marge"
-        },
-
-
-        {
-          "title": "Helter Shelter"
-        },
-
-
-        {
-          "title": "The Great Louse Detective"
-        },
-
-
-        {
-          "title": "Special Edna (a.k.a. Love And Marking)"
-        },
-
-
-        {
-          "title": "The Dad Who Knew Too Little"
-        },
-
-
-        {
-          "title": "The Strong Arms of the Ma"
-        },
-
-
-        {
-          "title": "Pray Anything"
-        },
-
-
-        {
-          "title": "Barting Over"
-        },
-
-
-        {
-          "title": "I'm Spelling as Fast as I Can"
-        },
-
-
-        {
-          "title": "A Star Is Born-Again"
-        },
-
-
-        {
-          "title": "Mr. Spritz Goes to Washington"
-        },
-
-
-        {
-          "title": "C.E. D'oh"
-        },
-
-
-        {
-          "title": "'Scuse Me While I Miss the Sky"
-        },
-
-
-        {
-          "title": "Three Gays of the Condo"
-        },
-
-
-        {
-          "title": "Dude, Where's My Ranch?"
-        },
-
-
-        {
-          "title": "Old Yeller Belly"
-        },
-
-
-        {
-          "title": "Brake My Wife, Please"
-        },
-
-
-        {
-          "title": "The Bart of War"
-        },
-
-
-        {
-          "title": "Moe Baby Blues"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror XIV"
-        },
-
-
-        {
-          "title": "My Mother the Carjacker"
-        },
-
-
-        {
-          "title": "The President Wore Pearls"
-        },
-
-
-        {
-          "title": "The Regina Monologues"
-        },
-
-
-        {
-          "title": "The Fat and the Furriest"
-        },
-
-
-        {
-          "title": "Today I Am a Clown"
-        },
-
-
-        {
-          "title": "'Tis the Fifteenth Season"
-        },
-
-
-        {
-          "title": "Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays"
-        },
-
-
-        {
-          "title": "I, (Annoyed Grunt)-Bot"
-        },
-
-
-        {
-          "title": "Diatribe of a Mad Housewife"
-        },
-
-
-        {
-          "title": "Margical History Tour"
-        },
-
-
-        {
-          "title": "Milhouse Doesn't Live Here Anymore"
-        },
-
-
-        {
-          "title": "Smart and Smarter"
-        },
-
-
-        {
-          "title": "The Ziff Who Came to Dinner"
-        },
-
-
-        {
-          "title": "Co-Dependent's Day"
-        },
-
-
-        {
-          "title": "The Wandering Juvie"
-        },
-
-
-        {
-          "title": "My Big Fat Geek Wedding"
-        },
-
-
-        {
-          "title": "Catch 'Em If You Can"
-        },
-
-
-        {
-          "title": "Simple Simpson"
-        },
-
-
-        {
-          "title": "The Way We Weren't"
-        },
-
-
-        {
-          "title": "Bart-Mangled Banner"
-        },
-
-
-        {
-          "title": "Fraudcast News"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Treehouse of Horror XV"
-        },
-
-
-        {
-          "title": "All's Fair in Oven War"
-        },
-
-
-        {
-          "title": "Sleeping with the Enemy"
-        },
-
-
-        {
-          "title": "She Used to Be My Girl"
-        },
-
-
-        {
-          "title": "Fat Man and Little Boy"
-        },
-
-
-        {
-          "title": "Midnight Rx"
-        },
-
-
-        {
-          "title": "Mommie Beerest"
-        },
-
-
-        {
-          "title": "Homer and Ned's Hail Mary Pass"
-        },
-
-
-        {
-          "title": "Pranksta Rap"
-        },
-
-
-        {
-          "title": "There's Something About Marrying"
-        },
-
-
-        {
-          "title": "On a Clear Day I Can't See My Sister"
-        },
-
-
-        {
-          "title": "Goo Goo Gai Pan"
-        },
-
-
-        {
-          "title": "Mobile Homer"
-        },
-
-
-        {
-          "title": "The Seven-Beer Snitch"
-        },
-
-
-        {
-          "title": "Future-Drama"
-        },
-
-
-        {
-          "title": "Don't Fear the Roofer"
-        },
-
-
-        {
-          "title": "The Heartbroke Kid"
-        },
-
-
-        {
-          "title": "A Star Is Torn"
-        },
-
-
-        {
-          "title": "Thank God It's Doomsday"
-        },
-
-
-        {
-          "title": "Home Away from Homer"
-        },
-
-
-        {
-          "title": "The Father, the Son, and the Holy Guest Star"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Bonfire of the Manatees"
-        },
-
-
-        {
-          "title": "The Girl Who Slept Too Little"
-        },
-
-
-        {
-          "title": "Milhouse of Sand and Fog"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XVI"
-        },
-
-
-        {
-          "title": "Marge's Son Poisoning"
-        },
-
-
-        {
-          "title": "See Homer Run"
-        },
-
-
-        {
-          "title": "The Last of the Red Hat Mamas"
-        },
-
-
-        {
-          "title": "The Italian Bob"
-        },
-
-
-        {
-          "title": "Simpsons Christmas Stories"
-        },
-
-
-        {
-          "title": "Homer's Paternity Coot"
-        },
-
-
-        {
-          "title": "We're on the Road to D'ohwhere"
-        },
-
-
-        {
-          "title": "My Fair Laddy"
-        },
-
-
-        {
-          "title": "The Seemingly Never-Ending Story"
-        },
-
-
-        {
-          "title": "Bart Has Two Mommies"
-        },
-
-
-        {
-          "title": "Homer Simpson, This Is Your Wife"
-        },
-
-
-        {
-          "title": "Million Dollar Abie"
-        },
-
-
-        {
-          "title": "Kiss Kiss, Bang Bangalore"
-        },
-
-
-        {
-          "title": "The Wettest Stories Ever Told"
-        },
-
-
-        {
-          "title": "Girls Just Want to Have Sums"
-        },
-
-
-        {
-          "title": "Regarding Margie"
-        },
-
-
-        {
-          "title": "The Monkey Suit"
-        },
-
-
-        {
-          "title": "Marge and Homer Turn a Couple Play"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "The Mook, the Chef, the Wife and Her Homer"
-        },
-
-
-        {
-          "title": "Jazzy and the Pussycats"
-        },
-
-
-        {
-          "title": "Please Homer, Don't Hammer 'Em..."
-        },
-
-
-        {
-          "title": "Treehouse of Horror XVII"
-        },
-
-
-        {
-          "title": "G.I."
-        },
-
-
-        {
-          "title": "Moe'N'a Lisa"
-        },
-
-
-        {
-          "title": "Ice Cream of Margie (With the Light Blue Hair)"
-        },
-
-
-        {
-          "title": "The Haw-Hawed Couple"
-        },
-
-
-        {
-          "title": "Kill Gil: Vols. 1 &amp; 2"
-        },
-
-
-        {
-          "title": "The Wife Aquatic"
-        },
-
-
-        {
-          "title": "Revenge is a Dish Best Served Three Times"
-        },
-
-
-        {
-          "title": "Little Big Girl"
-        },
-
-
-        {
-          "title": "Springfield Up"
-        },
-
-
-        {
-          "title": "Yokel Chords"
-        },
-
-
-        {
-          "title": "Rome-old and Juli-eh"
-        },
-
-
-        {
-          "title": "Homerazzi"
-        },
-
-
-        {
-          "title": "Marge Gamer"
-        },
-
-
-        {
-          "title": "The Boys of Bummer"
-        },
-
-
-        {
-          "title": "Crook and Ladder"
-        },
-
-
-        {
-          "title": "Stop, Or My Dog Will Shoot!"
-        },
-
-
-        {
-          "title": "24 Minutes"
-        },
-
-
-        {
-          "title": "You Kent Always Say What You Want"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "He Loves To Fly And He D'ohs"
-        },
-
-
-        {
-          "title": "The Homer of Seville"
-        },
-
-
-        {
-          "title": "Midnight Towboy"
-        },
-
-
-        {
-          "title": "I Don't Wanna Know Why the Caged Bird Sings"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XVIII"
-        },
-
-
-        {
-          "title": "Little Orphan Millie"
-        },
-
-
-        {
-          "title": "Husbands and Knives"
-        },
-
-
-        {
-          "title": "Funeral for a Fiend"
-        },
-
-
-        {
-          "title": "Eternal Moonshine of the Simpson Mind"
-        },
-
-
-        {
-          "title": "E. Pluribus Wiggum"
-        },
-
-
-        {
-          "title": "That 90's Show"
-        },
-
-
-        {
-          "title": "Love, Springfieldian Style"
-        },
-
-
-        {
-          "title": "The Debarted"
-        },
-
-
-        {
-          "title": "Dial 'N' for Nerder"
-        },
-
-
-        {
-          "title": "Smoke on the Daughter"
-        },
-
-
-        {
-          "title": "Papa Don't Leech"
-        },
-
-
-        {
-          "title": "Apocalypse Cow"
-        },
-
-
-        {
-          "title": "Any Given Sundance"
-        },
-
-
-        {
-          "title": "Mona Leaves-a"
-        },
-
-
-        {
-          "title": "All About Lisa"
-        }
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Sex, Pies and Idiot Scrapes"
-        },
-
-        {
-          "title": "Lost Verizon"
-        },
-
-        {
-          "title": "Double, Double, Boy in Trouble"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XIX"
-        },
-
-
-        {
-          "title": "Dangerous Curves"
-        },
-
-
-        {
-          "title": "Homer and Lisa Exchange Cross Words"
-        },
-
-
-        {
-          "title": "Mypods and Boomsticks"
-        },
-
-
-        {
-          "title": "The Burns and the Bees"
-        },
-
-
-        {
-          "title": "Lisa the Drama Queen"
-        },
-
-
-        {
-          "title": "Take My Life, Please"
-        },
-
-
-        {
-          "title": "How the Test Was Won"
-        },
-
-
-        {
-          "title": "No Loan Again, Naturally"
-        },
-
-
-        {
-          "title": "Gone Maggie Gone"
-        },
-
-
-        {
-          "title": "In the Name of the Grandfather"
-        },
-
-
-        {
-          "title": "Wedding For Disaster"
-        },
-
-
-        {
-          "title": "Eeny Teeny Maya Moe"
-        },
-
-
-        {
-          "title": "The Good, the Sad and the Drugly"
-        },
-
-
-        {
-          "title": "Father Knows Worst"
-        },
-
-
-        {
-          "title": "Waverly Hills, 9021-D'Oh"
-        },
-
-
-        {
-          "title": "Four Great Women and a Manicure"
-        },
-
-
-        {
-          "title": "Coming to Homerica"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Homer the Whopper"
-        },
-
-
-        {
-          "title": "Bart Gets a 'Z'"
-        },
-
-
-        {
-          "title": "The Great Wife Hope"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XX"
-        },
-
-
-        {
-          "title": "The Devil Wears Nada"
-        },
-
-
-        {
-          "title": "Pranks and Greens"
-        },
-
-
-        {
-          "title": "Rednecks and Broomsticks"
-        },
-
-
-        {
-          "title": "O Brother, Where Bart Thou?"
-        },
-
-
-        {
-          "title": "Thursdays with Abie"
-        },
-
-
-        {
-          "title": "Once Upon A Time In Springfield"
-        },
-
-
-        {
-          "title": "Million Dollar Maybe"
-        },
-
-
-        {
-          "title": "Boy Meets Curl"
-        },
-
-
-        {
-          "title": "The Color Yellow"
-        },
-
-
-        {
-          "title": "Postcards from the Wedge"
-        },
-
-
-        {
-          "title": "Stealing First Base"
-        },
-
-
-        {
-          "title": "The Greatest Story Ever D'ohed"
-        },
-
-
-        {
-          "title": "American History X-cellent"
-        },
-
-
-        {
-          "title": "Chief of Hearts"
-        },
-
-
-        {
-          "title": "The Squirt and the Whale"
-        },
-
-
-        {
-          "title": "To Surveil With Love"
-        },
-
-
-        {
-          "title": "Moe Letter Blues"
-        },
-
-
-        {
-          "title": "The Bob Next Door"
-        },
-
-
-        {
-          "title": "Judge Me Tender"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Elementary School Musical"
-        },
-
-
-        {
-          "title": "Loan-a-Lisa"
-        },
-
-
-        {
-          "title": "MoneyBART"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXI"
-        },
-
-
-        {
-          "title": "Lisa Simpson, This Isn't Your Life"
-        },
-
-
-        {
-          "title": "The Fool Monty"
-        },
-
-
-        {
-          "title": "How Munched is that Birdie in the Window?"
-        },
-
-
-        {
-          "title": "The Fight Before Christmas"
-        },
-
-
-        {
-          "title": "Donnie Fatso"
-        },
-
-
-        {
-          "title": "Moms I'd Like to Forget"
-        },
-
-
-        {
-          "title": "Flaming Moe"
-        },
-
-
-        {
-          "title": "Homer the Father"
-        },
-
-
-        {
-          "title": "The Blue and the Gray"
-        },
-
-
-        {
-          "title": "Angry Dad: The Movie"
-        },
-
-
-        {
-          "title": "The Scorpion's Tale"
-        },
-
-
-        {
-          "title": "A Midsummer's Nice Dream"
-        },
-
-
-        {
-          "title": "Love Is a Many Strangled Thing"
-        },
-
-
-        {
-          "title": "The Great Simpsina"
-        },
-
-
-        {
-          "title": "The Real Housewives of Fat Tony"
-        },
-
-
-        {
-          "title": "Homer Scissorhands"
-        },
-
-
-        {
-          "title": "500 Keys"
-        },
-
-
-        {
-          "title": "The Ned-Liest Catch"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "The Falcon and the D'Ohman"
-        },
-
-
-        {
-          "title": "Bart Stops to Smell the Roosevelts"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXII"
-        },
-
-
-        {
-          "title": "Replaceable You"
-        },
-
-
-        {
-          "title": "The Food Wife"
-        },
-
-
-        {
-          "title": "The Book Job"
-        },
-
-
-        {
-          "title": "The Man in the Blue Flannel Pants"
-        },
-
-
-        {
-          "title": "The Ten-Per-Cent Solution"
-        },
-
-
-        {
-          "title": "Holidays of Future Passed"
-        },
-
-
-        {
-          "title": "Politically Inept, with Homer Simpson"
-        },
-
-
-        {
-          "title": "The D'oh-cial Network"
-        },
-
-
-        {
-          "title": "Moe Goes from Rags to Riches"
-        },
-
-
-        {
-          "title": "The Daughter Also Rises"
-        },
-
-
-        {
-          "title": "At Long Last Leave"
-        },
-
-
-        {
-          "title": "Exit Through the Kwik-E-Mart"
-        },
-
-
-        {
-          "title": "How I Wet Your Mother"
-        },
-
-
-        {
-          "title": "Them, Robot"
-        },
-
-
-        {
-          "title": "Beware My Cheating Bart"
-        },
-
-
-        {
-          "title": "A Totally Fun Thing That Bart Will Never Do Again"
-        },
-
-
-        {
-          "title": "The Spy Who Learned Me"
-        },
-
-
-        {
-          "title": "Ned 'n' Edna's Blend"
-        },
-
-
-        {
-          "title": "Lisa Goes Gaga"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Moonshine River"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXIII"
-        },
-
-
-        {
-          "title": "Adventures in Baby-Getting"
-        },
-
-
-        {
-          "title": "Gone Abie Gone"
-        },
-
-
-        {
-          "title": "Penny-Wiseguys"
-        },
-
-
-        {
-          "title": "A Tree Grows in Springfield"
-        },
-
-
-        {
-          "title": "The Day the Earth Stood Cool"
-        },
-
-
-        {
-          "title": "To Cur, with Love"
-        },
-
-
-        {
-          "title": "Homer Goes to Prep School"
-        },
-
-
-        {
-          "title": "A Test Before Trying"
-        },
-
-
-        {
-          "title": "The Changing of the Guardian"
-        },
-
-
-        {
-          "title": "Love is a Many-Splintered Thing"
-        },
-
-
-        {
-          "title": "Hardly Kirk-ing"
-        },
-
-
-        {
-          "title": "Gorgeous Grampa"
-        },
-
-
-        {
-          "title": "Black-Eyed, Please"
-        },
-
-
-        {
-          "title": "Dark Knight Court"
-        },
-
-
-        {
-          "title": "What Animated Women Want"
-        },
-
-
-        {
-          "title": "Pulpit Friction"
-        },
-
-
-        {
-          "title": "Whiskey Business"
-        },
-
-
-        {
-          "title": "The Fabulous Faker Boy"
-        },
-
-
-        {
-          "title": "The Saga of Carl Carlson"
-        },
-
-
-        {
-          "title": "Dangers on a Train"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Homerland"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXIV"
-        },
-
-
-        {
-          "title": "Four Regrettings and a Funeral"
-        },
-
-
-        {
-          "title": "YOLO"
-        },
-
-
-        {
-          "title": "Labor Pains"
-        },
-
-
-        {
-          "title": "The Kid Is All Right"
-        },
-
-
-        {
-          "title": "Yellow Subterfuge"
-        },
-
-
-        {
-          "title": "White Christmas Blues"
-        },
-
-
-        {
-          "title": "Steal This Episode"
-        },
-
-
-        {
-          "title": "Married to the Blob"
-        },
-
-
-        {
-          "title": "Specs in the City"
-        },
-
-
-        {
-          "title": "Diggs"
-        },
-
-
-        {
-          "title": "The Man Who Grew Too Much"
-        },
-
-
-        {
-          "title": "The Winter of His Content"
-        },
-
-
-        {
-          "title": "The War of Art"
-        },
-
-
-        {
-          "title": "You Don't Have to Live Like a Referee"
-        },
-
-
-        {
-          "title": "Luca$"
-        },
-
-
-        {
-          "title": "Days of Future Future"
-        },
-
-
-        {
-          "title": "What to Expect When Bart's Expecting"
-        },
-
-
-        {
-          "title": "Brick Like Me"
-        },
-
-
-        {
-          "title": "Pay Pal"
-        },
-
-
-        {
-          "title": "Yellow Badge of Cowardge"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Clown in the Dumps"
-        },
-
-
-        {
-          "title": "The Wreck of the Relationship"
-        },
-
-
-        {
-          "title": "Super Franchise Me"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXV"
-        },
-
-
-        {
-          "title": "Opposites A-Frack"
-        },
-
-
-        {
-          "title": "Simpsorama"
-        },
-
-
-        {
-          "title": "Blazed and Confused"
-        },
-
-
-        {
-          "title": "Covercraft"
-        },
-
-
-        {
-          "title": "I Won't Be Home for Christmas"
-        },
-
-
-        {
-          "title": "The Man Who Came to Be Dinner"
-        },
-
-
-        {
-          "title": "Bart's New Friend"
-        },
-
-
-        {
-          "title": "The Musk Who Fell to Earth"
-        },
-
-
-        {
-          "title": "Walking Big &amp; Tall"
-        },
-
-
-        {
-          "title": "My Fare Lady"
-        },
-
-
-        {
-          "title": "The Princess Guide"
-        },
-
-
-        {
-          "title": "Sky Police"
-        },
-
-
-        {
-          "title": "Waiting For Duffman"
-        },
-
-
-        {
-          "title": "Peeping Mom"
-        },
-
-
-        {
-          "title": "The Kids are All Fight"
-        },
-
-
-        {
-          "title": "Let's Go Fly a Coot"
-        },
-
-
-        {
-          "title": "Bull-E"
-        },
-
-
-        {
-          "title": "Mathlete's Feat"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Every Man's Dream"
-        },
-
-
-        {
-          "title": "Cue Detective"
-        },
-
-
-        {
-          "title": "Puffless"
-        },
-
-
-        {
-          "title": "Halloween of Horror"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXVI"
-        },
-
-
-        {
-          "title": "Friend with Benefit"
-        },
-
-
-        {
-          "title": "Lisa with an 'S'"
-        },
-
-
-        {
-          "title": "Paths of Glory"
-        },
-
-
-        {
-          "title": "Barthood"
-        },
-
-
-        {
-          "title": "The Girl Code"
-        },
-
-
-        {
-          "title": "Teenage Mutant Milk-Caused Hurdles"
-        },
-
-
-        {
-          "title": "Much Apu About Something"
-        },
-
-
-        {
-          "title": "Love is in the N2-O2-Ar-CO2-Ne-He-CH4"
-        },
-
-
-        {
-          "title": "Gal of Constant Sorrow"
-        },
-
-
-        {
-          "title": "Lisa the Veterinarian"
-        },
-
-
-        {
-          "title": "The Marge-ian Chronicles"
-        },
-
-
-        {
-          "title": "The Burns Cage"
-        },
-
-
-        {
-          "title": "How Lisa Got Her Marge Back"
-        },
-
-
-        {
-          "title": "Fland Canyon"
-        },
-
-
-        {
-          "title": "To Courier with Love"
-        },
-
-
-        {
-          "title": "Simprovised"
-        },
-
-
-        {
-          "title": "Orange is the New Yellow"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Monty Burns' Fleeing Circus"
-        },
-
-
-        {
-          "title": "Friends and Family"
-        },
-
-
-        {
-          "title": "The Town"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXVII"
-        },
-
-
-        {
-          "title": "Trust But Clarify"
-        },
-
-
-        {
-          "title": "There Will Be Buds"
-        },
-
-
-        {
-          "title": "Havana Wild Weekend"
-        },
-
-
-        {
-          "title": "Dad Behavior"
-        },
-
-
-        {
-          "title": "The Last Traction Hero"
-        },
-
-
-        {
-          "title": "The Nightmare After Krustmas"
-        },
-
-
-        {
-          "title": "Pork and Burns"
-        },
-
-
-        {
-          "title": "The Great Phatsby, Part One -The Great Phatsby, Part Two"
-        },
-
-
-        {
-          "title": "The Great Phatsby Part 2"
-        },
-
-
-        {
-          "title": "Fatzcarraldo"
-        },
-
-
-        {
-          "title": "The Cad and the Hat"
-        },
-
-
-        {
-          "title": "Kamp Krustier"
-        },
-
-
-        {
-          "title": "22 for 30"
-        },
-
-
-        {
-          "title": "A Father's Watch"
-        },
-
-
-        {
-          "title": "Caper Chase"
-        },
-
-
-        {
-          "title": "Looking for Mr. Goodbart"
-        },
-
-
-        {
-          "title": "Moho House"
-        },
-
-
-        {
-          "title": "Dogtown"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "The Serfsons"
-        },
-
-
-        {
-          "title": "Springfield Splendor"
-        },
-
-
-        {
-          "title": "Whistler's Father"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXVIII"
-        },
-
-
-        {
-          "title": "Grampy Can Ya Hear Me"
-        },
-
-
-        {
-          "title": "The Old Blue Mayor She Ain't What She Used To Be"
-        },
-
-
-        {
-          "title": "Singin' in the Lane"
-        },
-
-
-        {
-          "title": "Mr. Lisa's Opus"
-        },
-
-
-        {
-          "title": "Gone Boy"
-        },
-
-
-        {
-          "title": "Haw-Haw Land"
-        },
-
-
-        {
-          "title": "Frink Gets Testy"
-        },
-
-
-        {
-          "title": "Homer Is Where the Art Isn't"
-        },
-
-
-        {
-          "title": "3 Scenes Plus A Tag From A Marriage"
-        },
-
-
-        {
-          "title": "Fears of a Clown"
-        },
-
-
-        {
-          "title": "No Good Read Goes Unpunished"
-        },
-
-
-        {
-          "title": "King Leer"
-        },
-
-
-        {
-          "title": "Lisa Gets the Blues"
-        },
-
-
-        {
-          "title": "Forgive and Regret"
-        },
-
-
-        {
-          "title": "Left Behind"
-        },
-
-
-        {
-          "title": "Throw Grampa from the Dane"
-        },
-
-
-        {
-          "title": "Flanders' Ladder"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Bart's Not Dead"
-        },
-
-
-        {
-          "title": "Heartbreak Hotel"
-        },
-
-
-        {
-          "title": "My Way or the Highway to Heaven"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXIX"
-        },
-
-
-        {
-          "title": "Baby You Can't Drive My Car"
-        },
-
-
-        {
-          "title": "From Russia Without Love"
-        },
-
-
-        {
-          "title": "Werking Mom"
-        },
-
-
-        {
-          "title": "Krusty the Clown"
-        },
-
-
-        {
-          "title": "Daddicus Finch"
-        },
-
-
-        {
-          "title": "'Tis the 30th Season"
-        },
-
-
-        {
-          "title": "Mad About the Toy"
-        },
-
-
-        {
-          "title": "The Girl on the Bus"
-        },
-
-
-        {
-          "title": "I'm Dancing as Fat as I Can"
-        },
-
-
-        {
-          "title": "The Clown Stays in the Picture"
-        },
-
-
-        {
-          "title": "101 Mitigations"
-        },
-
-
-        {
-          "title": "I Want You (She's So Heavy)"
-        },
-
-
-        {
-          "title": "E My Sports"
-        },
-
-
-        {
-          "title": "Bart vs Itchy &amp; Scratchy"
-        },
-
-
-        {
-          "title": "Girl's in the Band"
-        },
-
-
-        {
-          "title": "The Incredible Lightness of Being a Baby"
-        },
-
-
-        {
-          "title": "D'oh Canada"
-        },
-
-
-        {
-          "title": "Woo-Hoo Dunnit?"
-        },
-
-
-        {
-          "title": "Crystal Blue-Haired Persuasion"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "The Winter of Our Monetized Content"
-        },
-
-
-        {
-          "title": "Go Big or Go Homer"
-        },
-
-
-        {
-          "title": "The Fat Blue Line"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXX"
-        },
-
-
-        {
-          "title": "Gorillas on the Mast"
-        },
-
-
-        {
-          "title": "Marge The Lumberjill"
-        },
-
-
-        {
-          "title": "Livin La Pura Vida"
-        },
-
-
-        {
-          "title": "THANKSGIVING OF HORROR"
-        },
-
-
-        {
-          "title": "TODD, TODD, WHY HAST THOU FORSAKEN ME?"
-        },
-
-
-        {
-          "title": "Bobby, It’s Cold Outside"
-        },
-
-
-        {
-          "title": "HAIL TO THE TEETH"
-        },
-
-
-        {
-          "title": "THE MISEDUCATION OF LISA SIMPSON"
-        },
-
-
-        {
-          "title": "FRINKCOIN"
-        },
-
-
-        {
-          "title": "BART THE BAD GUY"
-        },
-
-
-        {
-          "title": "Screenless"
-        },
-
-
-        {
-          "title": "BETTER OFF NED"
-        },
-
-
-        {
-          "title": "HIGHWAY TO WELL"
-        },
-
-
-        {
-          "title": "THE INCREDIBLE LIGHTNESS OF BEING A BABY"
-        },
-
-
-        {
-          "title": "WARRIN’ PRIESTS"
-        },
-
-
-        {
-          "title": "WARRIN’ PRIESTS PART 2"
-        },
-
-
-        {
-          "title": "THE HATEFUL EIGHT-YEAR-OLDS"
-        },
-
-
-        {
-          "title": "THE WAY OF THE DOG"
-        }
-
-      ]
-    },
-    
-    {
-      "episodes": [
-        {
-          "title": "Undercover Burns"
-        },
-
-
-        {
-          "title": "I, CARUMBUS"
-        },
-
-
-        {
-          "title": "NOW MUSEUM, NOW YOU DON’T"
-        },
-
-
-        {
-          "title": "Treehouse of Horror XXXI"
-        },
-
-
-        {
-          "title": "THE 7 BEER ITCH"
-        },
-
-
-        {
-          "title": "PODCAST NEWS"
-        },
-
-
-        {
-          "title": "Three Dreams Denied"
-        },
-
-
-        {
-          "title": "THE ROAD TO CINCINNATI"
-        },
-
-
-        {
-          "title": "Sorry Not Sorry"
-        },
-
-
-        {
-          "title": "A SPRINGFIELD SUMMER CHRISTMAS FOR CHRISTMAS"
-        },
-
-
-        {
-          "title": "The Dad-Feelings Limited"
-        },
-
-
-        {
-          "title": "Diary Queen"
-        },
-
-
-        {
-          "title": "Wad Goals"
-        },
-
-
-        {
-          "title": "Yokel Hero"
-        },
-
-
-        {
-          "title": "Do PizzaBots Dream of Electric Guitars?"
-        },
-
-
-        {
-          "title": "Manger Things"
-        },
-
-
-        {
-          "title": "Uncut Femmes"
-        },
-
-
-        {
-          "title": "Burger Kings"
-        },
-
-
-        {
-          "title": "Panic On The Streets Of Springfield"
-        },
-
-
-        {
-          "title": "Mother and Child Reunion"
-        },
-
-
-        {
-          "title": "The Man from G.R.A.M.P.A."
-        },
-
-
-        {
-          "title": "The Last Barfighter"
-        }
-      ]
-    }
-  ]
+	"seasons": [	
+		[
+			"Simpsons Roasting on an Open Fire",
+			"Bart the Genius",
+			"Homer's Odyssey",
+			"There's No Disgrace Like Home",
+			"Bart the General",
+			"Moaning Lisa",
+			"The Call of the Simpsons",
+			"The Telltale Head",
+			"Life on the Fast Lane",
+			"Homer's Night Out",
+			"The Crepes of Wrath",
+			"Krusty Gets Busted",
+			"Some Enchanted Evening"			
+		],
+		[
+			"Bart Gets an F",
+			"Simpson and Delilah",
+			"Treehouse of Horror",
+			"Two Cars in Every Garage and Three Eyes on Every Fish",
+			"Dancin' Homer",
+			"Dead Putting Society",
+			"Bart vs. Thanksgiving",
+			"Bart the Daredevil",
+			"Itchy &amp; Scratchy &amp; Marge",
+			"Bart Gets Hit by a Car",
+			"One Fish, Two Fish, Blowfish, Blue Fish",
+			"The Way We Was",
+			"Homer vs. Lisa and the 8th Commandment",
+			"Principal Charming",
+			"Oh Brother, Where Art Thou?",
+			"Bart's Dog Gets an F",
+			"Old Money",
+			"Brush with Greatness",
+			"Lisa's Substitute",
+			"The War of the Simpsons",
+			"Three Men and a Comic Book",
+			"Blood Feud"			
+		],
+		[
+			"Stark Raving Dad",
+			"Mr. Lisa Goes to Washington",
+			"When Flanders Failed",
+			"Bart the Murderer",
+			"Homer Defined",
+			"Like Father, Like Clown",
+			"Treehouse of Horror II",
+			"Lisa's Pony",
+			"Saturdays of Thunder",
+			"Flaming Moe's",
+			"Burns Verkaufen der Kraftwerk",
+			"I Married Marge",
+			"Radio Bart",
+			"Lisa the Greek",
+			"Homer Alone",
+			"Bart the Lover",
+			"Homer at the Bat",
+			"Separate Vocations",
+			"Dog of Death",
+			"Colonel Homer",
+			"Black Widower",
+			"The Otto Show",
+			"Bart's Friend Falls in Love",
+			"Brother, Can You Spare Two Dimes?"			
+		],
+		[
+			"Kamp Krusty",
+			"A Streetcar Named Marge",
+			"Homer the Heretic",
+			"Lisa the Beauty Queen",
+			"Treehouse of Horror III",
+			"Itchy and Scratchy: The Movie",
+			"Marge Gets a Job",
+			"New Kid on the Block",
+			"Mr. Plow",
+			"Lisa's First Word",
+			"Homer's Triple Bypass",
+			"Marge vs. the Monorail",
+			"Selma's Choice",
+			"Brother from the Same Planet",
+			"I Love Lisa",
+			"Duffless",
+			"Last Exit to Springfield",
+			"So It's Come to This: A Simpsons Clip Show",
+			"The Front",
+			"Whacking Day",
+			"Marge in Chains",
+			"Krusty Gets Kancelled"			
+		],
+		[
+			"Homer's Barbershop Quartet",
+			"Cape Feare",
+			"Homer Goes to College",
+			"Rosebud",
+			"Treehouse of Horror IV",
+			"Marge on the Lam",
+			"Bart's Inner Child",
+			"Boy-Scoutz 'n the Hood",
+			"The Last Temptation of Homer",
+			"$pringfield",
+			"Homer the Vigilante",
+			"Bart Gets Famous",
+			"Homer and Apu",
+			"Lisa vs. Malibu Stacy",
+			"Deep Space Homer",
+			"Homer Loves Flanders",
+			"Bart Gets an Elephant",
+			"Burns' Heir",
+			"Sweet Seymour Skinner's Baadasssss Song",
+			"The Boy Who Knew Too Much",
+			"Lady Bouvier's Lover",
+			"Secrets of a Successful Marriage"			
+		],
+		[
+			"Bart of Darkness",
+			"Lisa's Rival",
+			"Another Simpsons Clip Show",
+			"Itchy &amp; Scratchy Land",
+			"Sideshow Bob Roberts",
+			"Treehouse of Horror V",
+			"Bart's Girlfriend",
+			"Lisa on Ice",
+			"Homer Badman",
+			"Grampa vs. Sexual Inadequacy",
+			"Fear of Flying",
+			"Homer the Great",
+			"And Maggie Makes Three",
+			"Bart's Comet",
+			"Homie the Clown",
+			"Bart vs. Australia",
+			"Homer vs. Patty &amp; Selma",
+			"A Star Is Burns",
+			"Lisa's Wedding",
+			"Two Dozen and One Greyhounds",
+			"The PTA Disbands",
+			"Round Springfield",
+			"The Springfield Connection",
+			"Lemon of Troy",
+			"Who Shot Mr. Burns?: Part 1"			
+		],
+		[
+			"Who Shot Mr. Burns? (2)",
+			"Radioactive Man",
+			"Home Sweet Homediddly-Dum-Doodily",
+			"Bart Sells His Soul",
+			"Lisa the Vegetarian",
+			"Treehouse of Horror VI",
+			"King-Size Homer",
+			"Mother Simpson",
+			"Sideshow Bob's Last Gleaming",
+			"The Simpsons 138th Episode Spectacular!",
+			"Marge Be Not Proud",
+			"Team Homer",
+			"Two Bad Neighbors",
+			"Scenes from the Class Struggle in Springfield",
+			"Bart the Fink",
+			"Lisa the Iconoclast",
+			"Homer the Smithers",
+			"The Day the Violence Died",
+			"A Fish Called Selma",
+			"Bart on the Road",
+			"22 Short Films about Springfield",
+			"Raging Abe Simpson and His Grumbling Grandson in &#34;The Curse of the Flying Hellfish&#34;",
+			"Much Apu About Nothing",
+			"Homerpalooza",
+			"Summer of 4 Ft. 2"			
+		],
+		[
+			"Treehouse of Horror VII",
+			"You Only Move Twice",
+			"The Homer They Fall",
+			"Burns, Baby Burns",
+			"Bart After Dark",
+			"A Milhouse Divided",
+			"Lisa's Date with Density",
+			"Hurricane Neddy",
+			"The Mysterious Voyage of Our Homer",
+			"The Springfield Files",
+			"The Twisted World of Marge Simpson",
+			"Mountain of Madness",
+			"Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
+			"The Itchy &amp; Scratchy &amp; Poochie Show",
+			"Homer's Phobia",
+			"Brother from Another Series",
+			"My Sister, My Sitter",
+			"Homer vs. The Eighteenth Amendment",
+			"Grade School Confidential",
+			"The Canine Mutiny",
+			"The Old Man and the Lisa",
+			"In Marge We Trust",
+			"Homer's Enemy",
+			"The Simpsons Spin-Off Showcase",
+			"The Secret War of Lisa Simpson"			
+		],
+		[
+			"The City of New York vs. Homer Simpson",
+			"The Principal and the Pauper",
+			"Lisa's Sax",
+			"Treehouse of Horror VIII",
+			"The Cartridge Family",
+			"Bart Star",
+			"The Two Mrs. Nahasapeemapetilons",
+			"Lisa the Skeptic",
+			"Realty Bites",
+			"Miracle on Evergreen Terrace",
+			"All Singing, All Dancing",
+			"Bart Carny",
+			"The Joy of Sect",
+			"Das Bus",
+			"The Last Temptation of Krust",
+			"Dumbbell Indemnity",
+			"Lisa the Simpson",
+			"This Little Wiggy",
+			"Simpson Tide",
+			"The Trouble with Trillions",
+			"Girly Edition",
+			"Trash of the Titans",
+			"King of the Hill",
+			"Lost Our Lisa",
+			"Natural Born Kissers"			
+		],
+		[
+			"Lard of the Dance",
+			"The Wizard of Evergreen Terrace",
+			"Bart the Mother",
+			"Treehouse of Horror IX",
+			"When You Dish upon a Star",
+			"D'Oh-in' in the Wind",
+			"Lisa Gets an &#34;A&#34;",
+			"Homer Simpson in: &#34;Kidney Trouble&#34;",
+			"Mayored to the Mob",
+			"Viva Ned Flanders",
+			"Wild Barts Can't Be Broken",
+			"Sunday, Cruddy Sunday",
+			"Homer to the Max",
+			"I'm with Cupid",
+			"Marge Simpson in: &#34;Screaming Yellow Honkers&#34;",
+			"Make Room for Lisa",
+			"Maximum Homerdrive",
+			"Simpsons Bible Stories",
+			"Mom and Pop Art",
+			"The Old Man and the &#34;C&#34; Student",
+			"Monty Can't Buy Me Love",
+			"They Saved Lisa's Brain",
+			"Thirty Minutes over Tokyo"			
+		],
+		[
+			"Beyond Blunderdome",
+			"Brother's Little Helper",
+			"Guess Who's Coming to Criticize Dinner?",
+			"Treehouse of Horror X",
+			"E-I-E-I-(Annoyed Grunt)",
+			"Hello Gutter, Hello Fadder",
+			"Eight Misbehavin'",
+			"Take My Wife, Sleaze",
+			"Grift of the Magi",
+			"Little Big Mom",
+			"Faith Off",
+			"The Mansion Family",
+			"Saddlesore Galactica",
+			"Alone Again, Natura-Diddily",
+			"Missionary: Impossible",
+			"Pygmoelian",
+			"Bart to the Future",
+			"Days of Wine and D'oh'ses",
+			"Kill the Alligator and Run",
+			"Last Tap Dance in Springfield",
+			"It's A Mad, Mad, Mad, Mad Marge",
+			"Behind the Laughter"			
+		],
+		[
+			"Treehouse of Horror XI",
+			"A Tale of Two Springfields",
+			"Insane Clown Poppy",
+			"Lisa the Tree Hugger",
+			"Homer vs. Dignity",
+			"The Computer Wore Menace Shoes",
+			"The Great Money Caper",
+			"Skinner's Sense of Snow",
+			"HOMR",
+			"Pokey Mom",
+			"Worst Episode Ever",
+			"Tennis the Menace",
+			"Day of the Jackanapes",
+			"New Kids on the Blecch",
+			"Hungry, Hungry Homer",
+			"Bye Bye Nerdie",
+			"Simpson Safari",
+			"Trilogy of Error",
+			"I'm Goin' to Praise Land",
+			"Children of a Lesser Clod",
+			"Simpsons Tall Tales"			
+		],
+		[
+			"Treehouse of Horror XII",
+			"The Parent Rap",
+			"Homer the Moe",
+			"A Hunka Hunka Burns in Love",
+			"The Blunder Years",
+			"She of Little Faith",
+			"Brawl in the Family",
+			"Sweets and Sour Marge",
+			"Jaws Wired Shut",
+			"Half-Decent Proposal",
+			"The Bart Wants What It Wants",
+			"The Lastest Gun in the West",
+			"The Old Man and the Key",
+			"Tales from the Public Domain",
+			"Blame It on Lisa",
+			"Weekend at Burnsie's",
+			"Gump Roast",
+			"I Am Furious Yellow",
+			"The Sweetest Apu",
+			"Little Girl in the Big Ten",
+			"The Frying Game",
+			"Papa's Got a Brand New Badge"			
+		],
+		[
+			"Treehouse of Horror XIII",
+			"How I Spent My Strummer Vacation",
+			"Bart vs. Lisa vs. the Third Grade",
+			"Large Marge",
+			"Helter Shelter",
+			"The Great Louse Detective",
+			"Special Edna (a.k.a. Love And Marking)",
+			"The Dad Who Knew Too Little",
+			"The Strong Arms of the Ma",
+			"Pray Anything",
+			"Barting Over",
+			"I'm Spelling as Fast as I Can",
+			"A Star Is Born-Again",
+			"Mr. Spritz Goes to Washington",
+			"C.E. D'oh",
+			"'Scuse Me While I Miss the Sky",
+			"Three Gays of the Condo",
+			"Dude, Where's My Ranch?",
+			"Old Yeller Belly",
+			"Brake My Wife, Please",
+			"The Bart of War",
+			"Moe Baby Blues"			
+		],
+		[
+			"Treehouse of Horror XIV",
+			"My Mother the Carjacker",
+			"The President Wore Pearls",
+			"The Regina Monologues",
+			"The Fat and the Furriest",
+			"Today I Am a Clown",
+			"'Tis the Fifteenth Season",
+			"Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays",
+			"I, (Annoyed Grunt)-Bot",
+			"Diatribe of a Mad Housewife",
+			"Margical History Tour",
+			"Milhouse Doesn't Live Here Anymore",
+			"Smart and Smarter",
+			"The Ziff Who Came to Dinner",
+			"Co-Dependent's Day",
+			"The Wandering Juvie",
+			"My Big Fat Geek Wedding",
+			"Catch 'Em If You Can",
+			"Simple Simpson",
+			"The Way We Weren't",
+			"Bart-Mangled Banner",
+			"Fraudcast News"			
+		],
+		[
+			"Treehouse of Horror XV",
+			"All's Fair in Oven War",
+			"Sleeping with the Enemy",
+			"She Used to Be My Girl",
+			"Fat Man and Little Boy",
+			"Midnight Rx",
+			"Mommie Beerest",
+			"Homer and Ned's Hail Mary Pass",
+			"Pranksta Rap",
+			"There's Something About Marrying",
+			"On a Clear Day I Can't See My Sister",
+			"Goo Goo Gai Pan",
+			"Mobile Homer",
+			"The Seven-Beer Snitch",
+			"Future-Drama",
+			"Don't Fear the Roofer",
+			"The Heartbroke Kid",
+			"A Star Is Torn",
+			"Thank God It's Doomsday",
+			"Home Away from Homer",
+			"The Father, the Son, and the Holy Guest Star"			
+		],
+		[
+			"Bonfire of the Manatees",
+			"The Girl Who Slept Too Little",
+			"Milhouse of Sand and Fog",
+			"Treehouse of Horror XVI",
+			"Marge's Son Poisoning",
+			"See Homer Run",
+			"The Last of the Red Hat Mamas",
+			"The Italian Bob",
+			"Simpsons Christmas Stories",
+			"Homer's Paternity Coot",
+			"We're on the Road to D'ohwhere",
+			"My Fair Laddy",
+			"The Seemingly Never-Ending Story",
+			"Bart Has Two Mommies",
+			"Homer Simpson, This Is Your Wife",
+			"Million Dollar Abie",
+			"Kiss Kiss, Bang Bangalore",
+			"The Wettest Stories Ever Told",
+			"Girls Just Want to Have Sums",
+			"Regarding Margie",
+			"The Monkey Suit",
+			"Marge and Homer Turn a Couple Play"			
+		],
+		[
+			"The Mook, the Chef, the Wife and Her Homer",
+			"Jazzy and the Pussycats",
+			"Please Homer, Don't Hammer 'Em...",
+			"Treehouse of Horror XVII",
+			"G.I.",
+			"Moe'N'a Lisa",
+			"Ice Cream of Margie (With the Light Blue Hair)",
+			"The Haw-Hawed Couple",
+			"Kill Gil: Vols. 1 &amp; 2",
+			"The Wife Aquatic",
+			"Revenge is a Dish Best Served Three Times",
+			"Little Big Girl",
+			"Springfield Up",
+			"Yokel Chords",
+			"Rome-old and Juli-eh",
+			"Homerazzi",
+			"Marge Gamer",
+			"The Boys of Bummer",
+			"Crook and Ladder",
+			"Stop, Or My Dog Will Shoot!",
+			"24 Minutes",
+			"You Kent Always Say What You Want"			
+		],
+		[
+			"He Loves To Fly And He D'ohs",
+			"The Homer of Seville",
+			"Midnight Towboy",
+			"I Don't Wanna Know Why the Caged Bird Sings",
+			"Treehouse of Horror XVIII",
+			"Little Orphan Millie",
+			"Husbands and Knives",
+			"Funeral for a Fiend",
+			"Eternal Moonshine of the Simpson Mind",
+			"E. Pluribus Wiggum",
+			"That 90's Show",
+			"Love, Springfieldian Style",
+			"The Debarted",
+			"Dial 'N' for Nerder",
+			"Smoke on the Daughter",
+			"Papa Don't Leech",
+			"Apocalypse Cow",
+			"Any Given Sundance",
+			"Mona Leaves-a",				
+			"All About Lisa"],
+		[
+			"Sex, Pies and Idiot Scrapes",
+			"Lost Verizon",
+			"Double, Double, Boy in Trouble",
+			"Treehouse of Horror XIX",
+			"Dangerous Curves",
+			"Homer and Lisa Exchange Cross Words",
+			"Mypods and Boomsticks",
+			"The Burns and the Bees",
+			"Lisa the Drama Queen",
+			"Take My Life, Please",
+			"How the Test Was Won",
+			"No Loan Again, Naturally",
+			"Gone Maggie Gone",
+			"In the Name of the Grandfather",
+			"Wedding For Disaster",
+			"Eeny Teeny Maya Moe",
+			"The Good, the Sad and the Drugly",
+			"Father Knows Worst",
+			"Waverly Hills, 9021-D'Oh",
+			"Four Great Women and a Manicure",
+			"Coming to Homerica"			
+		],
+		[
+			"Homer the Whopper",
+			"Bart Gets a 'Z'",
+			"The Great Wife Hope",
+			"Treehouse of Horror XX",
+			"The Devil Wears Nada",
+			"Pranks and Greens",
+			"Rednecks and Broomsticks",
+			"O Brother, Where Bart Thou?",
+			"Thursdays with Abie",
+			"Once Upon A Time In Springfield",
+			"Million Dollar Maybe",
+			"Boy Meets Curl",
+			"The Color Yellow",
+			"Postcards from the Wedge",
+			"Stealing First Base",
+			"The Greatest Story Ever D'ohed",
+			"American History X-cellent",
+			"Chief of Hearts",
+			"The Squirt and the Whale",
+			"To Surveil With Love",
+			"Moe Letter Blues",
+			"The Bob Next Door",
+			"Judge Me Tender"			
+		],
+		[
+			"Elementary School Musical",
+			"Loan-a-Lisa",
+			"MoneyBART",
+			"Treehouse of Horror XXI",
+			"Lisa Simpson, This Isn't Your Life",
+			"The Fool Monty",
+			"How Munched is that Birdie in the Window?",
+			"The Fight Before Christmas",
+			"Donnie Fatso",
+			"Moms I'd Like to Forget",
+			"Flaming Moe",
+			"Homer the Father",
+			"The Blue and the Gray",
+			"Angry Dad: The Movie",
+			"The Scorpion's Tale",
+			"A Midsummer's Nice Dream",
+			"Love Is a Many Strangled Thing",
+			"The Great Simpsina",
+			"The Real Housewives of Fat Tony",
+			"Homer Scissorhands",
+			"500 Keys",
+			"The Ned-Liest Catch"			
+		],
+		[
+			"The Falcon and the D'Ohman",
+			"Bart Stops to Smell the Roosevelts",
+			"Treehouse of Horror XXII",
+			"Replaceable You",
+			"The Food Wife",
+			"The Book Job",
+			"The Man in the Blue Flannel Pants",
+			"The Ten-Per-Cent Solution",
+			"Holidays of Future Passed",
+			"Politically Inept, with Homer Simpson",
+			"The D'oh-cial Network",
+			"Moe Goes from Rags to Riches",
+			"The Daughter Also Rises",
+			"At Long Last Leave",
+			"Exit Through the Kwik-E-Mart",
+			"How I Wet Your Mother",
+			"Them, Robot",
+			"Beware My Cheating Bart",
+			"A Totally Fun Thing That Bart Will Never Do Again",
+			"The Spy Who Learned Me",
+			"Ned 'n' Edna's Blend",
+			"Lisa Goes Gaga"			
+		],
+		[
+			"Moonshine River",
+			"Treehouse of Horror XXIII",
+			"Adventures in Baby-Getting",
+			"Gone Abie Gone",
+			"Penny-Wiseguys",
+			"A Tree Grows in Springfield",
+			"The Day the Earth Stood Cool",
+			"To Cur, with Love",
+			"Homer Goes to Prep School",
+			"A Test Before Trying",
+			"The Changing of the Guardian",
+			"Love is a Many-Splintered Thing",
+			"Hardly Kirk-ing",
+			"Gorgeous Grampa",
+			"Black-Eyed, Please",
+			"Dark Knight Court",
+			"What Animated Women Want",
+			"Pulpit Friction",
+			"Whiskey Business",
+			"The Fabulous Faker Boy",
+			"The Saga of Carl Carlson",
+			"Dangers on a Train"			
+		],
+		[
+			"Homerland",
+			"Treehouse of Horror XXIV",
+			"Four Regrettings and a Funeral",
+			"YOLO",
+			"Labor Pains",
+			"The Kid Is All Right",
+			"Yellow Subterfuge",
+			"White Christmas Blues",
+			"Steal This Episode",
+			"Married to the Blob",
+			"Specs in the City",
+			"Diggs",
+			"The Man Who Grew Too Much",
+			"The Winter of His Content",
+			"The War of Art",
+			"You Don't Have to Live Like a Referee",
+			"Luca$",
+			"Days of Future Future",
+			"What to Expect When Bart's Expecting",
+			"Brick Like Me",
+			"Pay Pal",
+			"Yellow Badge of Cowardge"			
+		],
+		[
+			"Clown in the Dumps",
+			"The Wreck of the Relationship",
+			"Super Franchise Me",
+			"Treehouse of Horror XXV",
+			"Opposites A-Frack",
+			"Simpsorama",
+			"Blazed and Confused",
+			"Covercraft",
+			"I Won't Be Home for Christmas",
+			"The Man Who Came to Be Dinner",
+			"Bart's New Friend",
+			"The Musk Who Fell to Earth",
+			"Walking Big &amp; Tall",
+			"My Fare Lady",
+			"The Princess Guide",
+			"Sky Police",
+			"Waiting For Duffman",
+			"Peeping Mom",
+			"The Kids are All Fight",
+			"Let's Go Fly a Coot",
+			"Bull-E",
+			"Mathlete's Feat"			
+		],
+		[
+			"Every Man's Dream",
+			"Cue Detective",
+			"Puffless",
+			"Halloween of Horror",
+			"Treehouse of Horror XXVI",
+			"Friend with Benefit",
+			"Lisa with an 'S'",
+			"Paths of Glory",
+			"Barthood",
+			"The Girl Code",
+			"Teenage Mutant Milk-Caused Hurdles",
+			"Much Apu About Something",
+			"Love is in the N2-O2-Ar-CO2-Ne-He-CH4",
+			"Gal of Constant Sorrow",
+			"Lisa the Veterinarian",
+			"The Marge-ian Chronicles",
+			"The Burns Cage",
+			"How Lisa Got Her Marge Back",
+			"Fland Canyon",
+			"To Courier with Love",
+			"Simprovised",
+			"Orange is the New Yellow"			
+		],
+		[
+			"Monty Burns' Fleeing Circus",
+			"Friends and Family",
+			"The Town",
+			"Treehouse of Horror XXVII",
+			"Trust But Clarify",
+			"There Will Be Buds",
+			"Havana Wild Weekend",
+			"Dad Behavior",
+			"The Last Traction Hero",
+			"The Nightmare After Krustmas",
+			"Pork and Burns",
+			"The Great Phatsby, Part One -The Great Phatsby, Part Two",
+			"The Great Phatsby Part 2",
+			"Fatzcarraldo",
+			"The Cad and the Hat",
+			"Kamp Krustier",
+			"22 for 30",
+			"A Father's Watch",
+			"Caper Chase",
+			"Looking for Mr. Goodbart",
+			"Moho House",
+			"Dogtown"			
+		],
+		[
+			"The Serfsons",
+			"Springfield Splendor",
+			"Whistler's Father",
+			"Treehouse of Horror XXVIII",
+			"Grampy Can Ya Hear Me",
+			"The Old Blue Mayor She Ain't What She Used To Be",
+			"Singin' in the Lane",
+			"Mr. Lisa's Opus",
+			"Gone Boy",
+			"Haw-Haw Land",
+			"Frink Gets Testy",
+			"Homer Is Where the Art Isn't",
+			"3 Scenes Plus A Tag From A Marriage",
+			"Fears of a Clown",
+			"No Good Read Goes Unpunished",
+			"King Leer",
+			"Lisa Gets the Blues",
+			"Forgive and Regret",
+			"Left Behind",
+			"Throw Grampa from the Dane",
+			"Flanders' Ladder"			
+		],
+		[
+			"Bart's Not Dead",
+			"Heartbreak Hotel",
+			"My Way or the Highway to Heaven",
+			"Treehouse of Horror XXIX",
+			"Baby You Can't Drive My Car",
+			"From Russia Without Love",
+			"Werking Mom",
+			"Krusty the Clown",
+			"Daddicus Finch",
+			"'Tis the 30th Season",
+			"Mad About the Toy",
+			"The Girl on the Bus",
+			"I'm Dancing as Fat as I Can",
+			"The Clown Stays in the Picture",
+			"101 Mitigations",
+			"I Want You (She's So Heavy)",
+			"E My Sports",
+			"Bart vs Itchy &amp; Scratchy",
+			"Girl's in the Band",
+			"The Incredible Lightness of Being a Baby",
+			"D'oh Canada",
+			"Woo-Hoo Dunnit?",
+			"Crystal Blue-Haired Persuasion"			
+		],
+		[
+			"The Winter of Our Monetized Content",
+			"Go Big or Go Homer",
+			"The Fat Blue Line",
+			"Treehouse of Horror XXX",
+			"Gorillas on the Mast",
+			"Marge The Lumberjill",
+			"Livin La Pura Vida",
+			"THANKSGIVING OF HORROR",
+			"TODD, TODD, WHY HAST THOU FORSAKEN ME?",
+			"Bobby, It’s Cold Outside",
+			"HAIL TO THE TEETH",
+			"THE MISEDUCATION OF LISA SIMPSON",
+			"FRINKCOIN",
+			"BART THE BAD GUY",
+			"Screenless",
+			"BETTER OFF NED",
+			"HIGHWAY TO WELL",
+			"THE INCREDIBLE LIGHTNESS OF BEING A BABY",
+			"WARRIN’ PRIESTS",
+			"WARRIN’ PRIESTS PART 2",
+			"THE HATEFUL EIGHT-YEAR-OLDS",
+			"THE WAY OF THE DOG"			
+		],
+		[
+			"Undercover Burns",
+			"I, CARUMBUS",
+			"NOW MUSEUM, NOW YOU DON’T",
+			"Treehouse of Horror XXXI",
+			"THE 7 BEER ITCH",
+			"PODCAST NEWS",
+			"Three Dreams Denied",
+			"THE ROAD TO CINCINNATI",
+			"Sorry Not Sorry",
+			"A SPRINGFIELD SUMMER CHRISTMAS FOR CHRISTMAS",
+			"The Dad-Feelings Limited",
+			"Diary Queen",
+			"Wad Goals",
+			"Yokel Hero",
+			"Do PizzaBots Dream of Electric Guitars?",
+			"Manger Things",
+			"Uncut Femmes",
+			"Burger Kings",
+			"Panic On The Streets Of Springfield",
+			"Mother and Child Reunion",
+			"The Man from G.R.A.M.P.A.",
+			"The Last Barfighter"]
+	]
 }
