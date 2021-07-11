@@ -7,7 +7,7 @@ let episode;
 let lEpisode;
 
 let changeTime = -1;
-let changeBuffer = 2000;
+let changeBuffer = 200;
 
 function preload() {
   
