@@ -33,11 +33,11 @@ function setup() {
 
 function draw() {
   background(40, 40, 50);
-  episode.value(min(episode.value(), seas[season.value() - 1].episodes.length));
+  episode.value(min(episode.value(), seas[season.value() - 1].length));
   
   fill(255);
   textSize(50);
-  text("Season: " + season.value() + "\nEpisode: " + episode.value() + "\n" + seas[season.value() - 1].episodes[episode.value() - 1].title, 10, height / 4 * 0.3);
+  text("Season: " + season.value() + "\nEpisode: " + episode.value() + "\n" + seas[season.value() - 1][episode.value() - 1], 10, height / 4 * 0.3);
   
   if (lSeason != season.value() || lEpisode != episode.value()) {
     changeTime = millis();
